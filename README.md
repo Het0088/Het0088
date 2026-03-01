@@ -47,9 +47,13 @@ Software solutions developed as part of research-driven development.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Het0088&show_icons=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Het0088&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Het0088&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Het0088&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
