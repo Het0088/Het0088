@@ -44,19 +44,6 @@ Business and production-ready websites with backend systems and API integrations
 Software solutions developed as part of research-driven development.
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Het0088&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Het0088&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Het0088&hide_border=true)
