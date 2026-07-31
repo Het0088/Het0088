@@ -9,7 +9,6 @@ I build intelligent automation systems, AI assistants, and scalable web platform
 ## About Me
 
 - Building AI-driven systems and automation tools using Python
-- Creator of a Voice AI Assistant (JARVIS)
 - Experience with real-world freelance and client projects
 - Cybersecurity background with strong engineering fundamentals
 - Focused on scalable architecture and practical software solutions
